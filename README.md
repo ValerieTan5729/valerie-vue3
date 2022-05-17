@@ -1,5 +1,5 @@
 <p align="center">
-	<img alt="logo" style="width: 80px; margin-bottom: -60px" src="https://wx3.sinaimg.cn/orj360/86215177gy1h2adn73w69j21du1du15v.jpg">
+	<img alt="logo" style="width: 80px; margin-bottom: -60px" src="https://camo.githubusercontent.com/b0450ade92c08b9114fbc2ff74b8a6f558838760d6788a8338ff9addadfa889e/68747470733a2f2f7778332e73696e61696d672e636e2f6f726a3336302f3836323135313737677931683261646e37337736396a323164753164753135762e6a7067">
 </p>
 <h1 align="center" style="margin: 30px 0 30px; font-weight: bold;">Valerie v1.0.0</h1>
 <h4 align="center">Vue3前端 学习项目</h4>
